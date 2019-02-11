@@ -1,0 +1,6 @@
+body {
+	color: rgba(0,0,0,.5);
+	text-align: center;
+	text-transform: uppercase;
+	background: linear-gradient(to right, red, yellow);
+}
